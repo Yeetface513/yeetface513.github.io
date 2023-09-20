@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(35, 201, 223);
+  background-image: url('yes.webp');
   }
 #bing_chilling {
+  font-family: 'Inclusive Sans', sans-serif;
+}
+#cheese {
   font-family: 'Inclusive Sans', sans-serif;
 }
