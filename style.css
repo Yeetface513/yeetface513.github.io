@@ -1,11 +1,13 @@
 body {
-  background-color: aquamarine;
+  background-color: rgb(10, 134, 191);
   }
 #bing_chilling {
   font-family: 'Inclusive Sans', sans-serif;
+  color: rgb(22, 218, 153);
 }
 #cheese {
   font-family: 'Inclusive Sans', sans-serif;
   font-size: large;
   font-weight: 200;
+  color: rgb(133, 224, 14);
 }
