@@ -3,7 +3,6 @@
 
 body {
   background-color: rgb(10, 134, 191);
-  font-family: 'Redacted', cursive;
   }
 #bing_chilling {
   font-family: 'Inclusive Sans', sans-serif;
@@ -21,4 +20,10 @@ body {
   padding: 20px;
   width: 500px;
   height: 600px;
+}
+#redacted_cheese {
+  font-family: 'Redacted', cursive;
+  font-size: large;
+  font-weight: 200;
+  color: rgb(133, 224, 14);
 }
