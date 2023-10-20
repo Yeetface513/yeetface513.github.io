@@ -27,3 +27,9 @@ body {
   font-weight: 200;
   color: rgb(133, 224, 14);
 }
+.MyDiv {
+  border: 1cm, black;
+  text-align: center;
+  padding: 20px;
+  border-radius: 25px;
+}
