@@ -28,7 +28,8 @@ body {
   color: rgb(133, 224, 14);
 }
 .HeaderDiv {
-  border: 5cm, solid, black;
+  border: 5cm, black;
+  border-style: dashed;
   text-align: center;
   padding: 20px;
   border-radius: 25px;
