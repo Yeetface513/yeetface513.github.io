@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
 html, body {
   background-color: rgb(10, 134, 191);
-  cursor: url("/cursor.webp"), auto;
+  cursor: url("/favicon-32x32.png"), auto;
   }
 #bing_chilling {
   font-family: '', sans-serif;
