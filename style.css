@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Redacted&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
-body {
+html, body {
   background-color: rgb(10, 134, 191);
-  cursor: url('yes.webp'), auto;
+  cursor: url("/yes.webp"), auto;
   }
 #bing_chilling {
   font-family: '', sans-serif;
