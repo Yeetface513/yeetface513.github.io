@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
 body {
   background-color: rgb(10, 134, 191);
-  cursor: progress;
+  cursor: url('yes.webp'), auto;
   }
 #bing_chilling {
   font-family: '', sans-serif;
